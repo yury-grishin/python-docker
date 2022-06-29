@@ -1,0 +1,1 @@
+print("From Docker with love. Python.")
