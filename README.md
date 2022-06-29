@@ -2,4 +2,6 @@
 Docker project with a python script
 
 # Build image
-docker image build --tag greetings:latest .
+1. Fill out `.env` file.
+2. Set execute permission on the `build.sh` file.
+3. Run the `build.sh` file.
